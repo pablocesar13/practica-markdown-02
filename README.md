@@ -9,3 +9,7 @@ Practica de laboratorio, markdown
 Logo de la Universidad de Costa Rica
 
 ![](https://medios.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
+
+Local
+
+![](firma-ucr-ico.png)
