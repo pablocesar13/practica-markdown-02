@@ -7,11 +7,11 @@ Practica de laboratorio, markdown
 [Sitio web de la Universidad de Costa Rica](https://www.ucr.ac.cr/)
 
 <h1>Encabezado nivel 1 HTML</h1>
-<h1>Encabezado nivel 2 HTML</h2
-<h1>Encabezado nivel 3 HTML</h3
+<h2>Encabezado nivel 2 HTML</h2>
+<h3>Encabezado nivel 3 HTML</h3>
 ...
     
-<h1>Encabezado nivel 6 HTML</h6
+<h6>Encabezado nivel 6 HTML</h6>
 
 Logo de la Universidad de Costa Rica
 
