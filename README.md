@@ -13,3 +13,19 @@ Logo de la Universidad de Costa Rica
 Local
 
 ![](firma-ucr-ico.png)
+
+*TEXTO EN ITALICA*
+**TEXTO EN NEGRITA**
+Lista numerada
+
+1. Uno
+2. Dos
+3. Tres
+
+Lista no numerada
+
+-Primer item
+    -Otro item
+    -Otroitem mas
+-Segundo item
+-Tercer item
