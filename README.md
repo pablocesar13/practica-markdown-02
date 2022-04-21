@@ -24,8 +24,8 @@ Lista numerada
 
 Lista no numerada
 
--Primer item
-    -Otro item
-    -Otroitem mas
--Segundo item
--Tercer item
+- Primer item
+    - Otro item
+    - Otroitem mas
+- Segundo item
+- Tercer item
