@@ -10,6 +10,9 @@ Logo de la Universidad de Costa Rica
 
 ![](https://medios.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
 
+Con tamaña modidicado
+<img src="https://medios.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png" alt="Girl in a jacket" width="624" height="322">
+
 Local
 
 ![](firma-ucr-ico.png)
@@ -29,3 +32,4 @@ Lista no numerada
     - Otroitem mas
 - Segundo item
 - Tercer item
+
